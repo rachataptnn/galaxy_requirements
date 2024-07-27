@@ -2,6 +2,8 @@
 
 Y = Yes! you can do it
 
+![image](https://github.com/user-attachments/assets/3bc7d0ca-32af-4264-b6e3-37a7891edd1a)
+
 | Feature                      | Admin | User |
 |------------------------------|:-----:|:----:|
 | **User Management**          |       |      |
