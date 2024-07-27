@@ -7,6 +7,8 @@
 - และ Activity นี้จะช่วยยืนยันว่าเราโอเคที่จะมี คุณๆท่านๆ เหล่านั้นเป็นลูกค้าของเรา
 - เราต้องสามารถ Update Data ได้ เพราะอาจจะมี Scenario ย้ายที่อยู่อาศัย รวมถึงเราไม่อาจให้บริการกับลูกค้าบางท่านที่อาจจะไปก่ออาชญากรรมในอนาคต จนถูกหมายหัวจาก `ผู้พิทักษ์ Galaxy` 
 
+![image](https://github.com/user-attachments/assets/41a0aa9a-44cd-46af-8e78-67538a30b0eb)
+
 #### Possible Activity In this Feature
     - User Register
     - User Update
