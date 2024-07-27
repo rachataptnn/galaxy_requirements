@@ -1,7 +1,7 @@
 ## User schema
 
 |    Column Name    |     Data Type     |                       Description                      |
-|:-----------------:|:-----------------:|:------------------------------------------------------:|
+|-------------------|-------------------|--------------------------------------------------------|
 | user_id           | INT (Primary Key) | Unique identifier for the user                         |
 | first_name        | VARCHAR(255)      | First name of the user                                 |
 | last_name         | VARCHAR(255)      | Last name of the user                                  |
@@ -23,7 +23,7 @@
 ## Spaceship Schema
 
 |     Column Name    |     Data Type     |                        Description                        |
-|:------------------:|:-----------------:|:---------------------------------------------------------:|
+|--------------------|-------------------|-----------------------------------------------------------|
 | spaceship_id       | INT (Primary Key) | Unique identifier for the spaceship                       |
 | central_ss_id      | INT (Primary Key) | Unique identifier for the spaceship                       |
 | name               | VARCHAR(255)      | Name of the spaceship                                     |
