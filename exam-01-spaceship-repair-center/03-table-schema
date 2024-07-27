@@ -1,4 +1,5 @@
 ## User schema
+
 |    Column Name    |     Data Type     |                       Description                      |
 |:-----------------:|:-----------------:|:------------------------------------------------------:|
 | user_id           | INT (Primary Key) | Unique identifier for the user                         |
@@ -20,6 +21,7 @@
 | membership_status | VARCHAR(50)       | Status of the user membership (e.g., active, inactive) |
 
 ## Spaceship Schema
+
 |     Column Name    |     Data Type     |                        Description                        |
 |:------------------:|:-----------------:|:---------------------------------------------------------:|
 | spaceship_id       | INT (Primary Key) | Unique identifier for the spaceship                       |
@@ -44,6 +46,7 @@
 
 
 ## Booking Schema
+
 | Column Name        | Data Type         | Description                                         |
 |--------------------|-------------------|-----------------------------------------------------|
 | booking_id         | INT (Primary Key) | Unique identifier for the booking                   |
@@ -57,6 +60,7 @@
 
 
 ## Spare Part Schema
+
 | Column Name        | Data Type         | Description                                         |
 |--------------------|-------------------|-----------------------------------------------------|
 | part_id            | INT (Primary Key) | Unique identifier for the spare part                |
