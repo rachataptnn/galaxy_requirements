@@ -20,6 +20,8 @@
 | registration_date | DATE              | Date when the user registered                          |
 | membership_status | VARCHAR(50)       | Status of the user membership (e.g., active, inactive) |
 
+<br/>
+
 ## Spaceship Schema
 
 |     Column Name    |     Data Type     |                        Description                        |
@@ -44,6 +46,7 @@
 | fuel_capacity      | FLOAT             | Maximum fuel capacity in liters                           |
 | current_location   | VARCHAR(255)      | Current location of the spaceship                         |
 
+<br/>
 
 ## Booking Schema
 
@@ -58,6 +61,7 @@
 | status             | VARCHAR(50)       | Status of the booking (e.g., confirmed, pending)    |
 | special_requests   | TEXT              | Any special requests or notes from the client       |
 
+<br/>
 
 ## Spare Part Schema
 
@@ -71,6 +75,8 @@
 | quantity_in_stock  | INT               | Number of units available in stock                  |
 | price              | DECIMAL(10, 2)    | Price of the spare part                             |
 | compatibility      | VARCHAR(255)      | Compatible spaceship models or types                |
+
+<br/>
 
 ## Technician Schema
 
